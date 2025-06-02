@@ -13,4 +13,4 @@
 * Погода "по умолчанию" (автоматическое определение местоположения пользователя).
 * Поиск по городам
 
-https://github.com/skokdmitriy/WeatherApp/blob/main/Simulator%20Screen%20Recording.mp4
+https://github.com/user-attachments/assets/796477a9-9b1f-4d73-b57c-ee6e6ee0d380
